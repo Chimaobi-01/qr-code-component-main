@@ -44,9 +44,9 @@ main {
   color: hsl(220, 15%, 55%);
   padding: 0 7px;
 }
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 610px) {
   .card {
-    max-width: 290px;
+    max-width: 291px;
     max-height: 79%;
     padding: 13px;
   }
