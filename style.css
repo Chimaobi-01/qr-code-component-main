@@ -18,7 +18,7 @@ main {
 }
 .card {
   background: hsl(0, 0%, 100%);
-  max-width: 385px;
+  max-width: 85%;
   padding: 20px;
   border-radius: 20px;
   text-align: center;
@@ -43,4 +43,11 @@ main {
   font-weight: 400;
   color: hsl(220, 15%, 55%);
   padding: 0 7px;
+}
+@media screen and (min-width: 600px) {
+  .card {
+    max-width: 290px;
+    max-height: 79%;
+    padding: 13px;
+  }
 }
