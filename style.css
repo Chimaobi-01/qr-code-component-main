@@ -46,8 +46,8 @@ main {
 }
 @media screen and (min-width: 610px) {
   .card {
-    max-width: 291px;
-    max-height: 79%;
+    max-width: 320px;
+    height: 79%;
     padding: 13px;
   }
 }
