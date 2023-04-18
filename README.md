@@ -11,4 +11,4 @@ Thanks for checking out this front-end coding challenge.
 **To do this challenge, you need a basic understanding of HTML and CSS.**
 
 # View Live page
-## 
+## https://chimaobi-01.github.io/qr-code-component-main/
